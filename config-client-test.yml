@@ -3,6 +3,6 @@ server:
 
 spring:
   application:
-    name: config-client-test
+    name: config-client
 
-name: config-client
+name: config-client-test
