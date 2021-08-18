@@ -13,5 +13,5 @@ eureka:
     service-url: # 设置服务注册
       defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
 
-name: order-service-prod
+name: order-service-prod-001
 password: '{cipher}AQChrbu0fdEpRnziVgya3noEoup7zKI/t9kdTSdtyGBvZRJOVZ1FdWkRgJNvCUxK8ymX1glfXq1zCrBNhNUwtGA0c5/SjYINbpwL3O1/pLZE8+s90ONviOrKPQRkbgg/GvnVQ1Bo1q+Nap6z2Gx9ufVy7Psu0UaBbe75mXlajCWQMsXrhWFDBVrf7A1eUiiazCpIIwqTU16mDYk/VYnBUqOKqL+9+Hoe7KQBQxEi2jUoiv7T+TCD2WciAmj2wOV1ntF7YmiyA9gG2FvmayyGT5QvMPobda+qlnc1XAvPf89Pv1Njubsc1t8IXbQvrbZiTodCjPIqlRbMbQ0DdSdbIAuzUIRZFSTbdcR6DwpKSU3ELo0AHYBWYI5aSBkhSwN6YG8='
