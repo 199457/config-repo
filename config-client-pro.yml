@@ -5,4 +5,4 @@ spring:
   application:
     name: config-client
 
-name: config-client-pro
+name: config-client-pro-1.0
