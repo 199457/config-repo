@@ -5,4 +5,4 @@ spring:
   application:
     name: config-client
 
-name: config-client-test-01
+name: config-client-test-1.0
