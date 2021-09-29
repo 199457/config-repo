@@ -5,4 +5,4 @@ spring:
   application:
     name: config-client
 
-name: config-client-dev-2.8
+name: config-client-dev-2.9
