@@ -1,3 +1,3 @@
 # config-repo
 config repo
-2.1
+2.2
