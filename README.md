@@ -1,3 +1,3 @@
 # config-repo
 configrepo
-3.5
+3.6
