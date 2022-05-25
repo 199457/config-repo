@@ -1,4 +1,4 @@
 # config-repo
 configrepo
-5.24
+5.25
 2021/12/31
